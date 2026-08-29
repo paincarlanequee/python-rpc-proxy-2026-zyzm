@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (308d7f5bae96a3cb)
+project:
+  name: python-rpc-proxy-2026-zyzm
+  tag: 308d7f5bae96a3cb
+  env: production
+cfg_cipher7nor60:
+  enabled: true
+  workers: 2
+cfg_matrixxdjmlq:
+  timeout_sec: 28
+  retry: 1
+cfg_kernelt7vdya:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
